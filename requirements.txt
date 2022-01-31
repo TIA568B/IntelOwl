@@ -24,7 +24,7 @@ flower==0.9.3
 future==0.17.1
 gitdb2==2.0.5
 GitPython==3.0.2
-idna==2.8
+idna==3.3
 importlib-metadata==0.19
 jmespath==0.9.4
 joblib==0.13.2
